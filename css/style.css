@@ -240,6 +240,10 @@
   margin: auto;
 }
 
+.section .section-botton .mySlides {
+  display: inline;
+}
+
 .section .section-botton .fade {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
